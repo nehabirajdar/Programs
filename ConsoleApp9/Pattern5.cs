@@ -16,7 +16,7 @@ namespace ConsoleApp9
                 {
                     Console.Write("" + (j));
                 }
-                Console.WriteLine("");
+                Console.WriteLine(""); 
             }
         }
     }
