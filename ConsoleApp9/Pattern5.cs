@@ -15,7 +15,7 @@ namespace ConsoleApp9
                 for (int j = 5; j >= i; j--)
                 {
                     Console.Write("" + (j));
-                }
+                } 
                 Console.WriteLine(""); 
             }
         }
